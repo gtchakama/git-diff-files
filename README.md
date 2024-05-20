@@ -58,8 +58,3 @@ The `git_diff_files.sh` script does the following:
 This script was created to simplify the process of reviewing changes file by file in a Git repository.
 
 ---
-
-Feel free to customize this README file to suit your needs. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-```
-
-This updated README includes instructions on where to place the script within your Git repository, ensuring users know where to put the script before running it.
